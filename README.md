@@ -6,7 +6,7 @@ solidity >= 0.4.22 y < 0.9.0
 
 truffle v5.3.5
 
-ganache, v2.5.4
+ganache v2.5.4
 
 Este ejercicio esta diseñado para probar una simple implementación de un token sobre una red Ethereum local (Usando Ganache).
 
